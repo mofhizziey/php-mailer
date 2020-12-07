@@ -23,8 +23,7 @@ if(isset($_POST['send'])){
 }
 
 if($subject && $content && $to && $from ){
-  $headers = "From: <?php echo $from ?>" . "\r\n" .
-  "CC: <?php echo $to ?>";
+  $headers = "From: "  . $from . "\r\n" . "CC: " . $to;
 
   mail($to, $subject, $content, $headers);
   header("Location: successful.php");
