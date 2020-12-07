@@ -13,6 +13,18 @@ mo-mailer helps in email sniffing/cloning
 
 Email is not directly from you but appears to be so due to PHP header manipulations
 
+INSTALLATION
+-------------
+To install clone url from git repo
+
+$ git clone https://github.com/mofhizziey/php-mailer
+
+Navigate into directory 
+$ cd php-mailer
+
+RUN AS LOCALHOST
+----------------
+
 
 To use it basically simple login to the URL fill in the required forms
 *Required forms are Recipients, From, Subject, Content
