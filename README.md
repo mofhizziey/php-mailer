@@ -6,8 +6,11 @@ Create Convincing drafted snooped emails
 mo-mailer is an easy to use web application that helps sniff or clone an email address of your choice, this software should not be used for cybercrime or any other related nefarious gains
 ----------------------------------------------------------------------------------------------------
 mo-mailer is a good medium to test email deliveries 
+
 mo-mailer- helps to send quick and mass emails without loggin in
+
 mo-mailer helps in email sniffing/cloning
+
 Email is not directly from you but appears to be so due to PHP header manipulations
 
 
