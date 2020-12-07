@@ -19,7 +19,8 @@ To install clone url from git repo
 
 $ git clone https://github.com/mofhizziey/php-mailer
 
-Navigate into directory 
+Navigate into directory
+
 $ cd php-mailer
 
 RUN AS LOCALHOST
